@@ -12,14 +12,15 @@
 
 - 💬 Ask me about **DevOps, Linux, Cloud and Network**
 
-
-- Open source is something I'm interested in.
-- 
-- Artificial intelligence is an area I'm focusing on right now.
+<!--
+#- Open source is something I'm interested in.
+#- 
+#- Artificial intelligence is an area I'm focusing on right now.
+-->
 
 ### Support or Contact
 
-👨🏻‍💻Please feel free to get in touch, I'll be happy to help!💁🏻‍♂️ [Email](sampaio.lc@hotmail.com)
+👨🏻‍💻Please feel free to get in touch, I'll be happy to help!💁🏻‍♂️
 
 [![Twitter Badge](https://img.shields.io/badge/-Sampaiolc1-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Sampaiolc1)](https://twitter.com/Sampaiolc1/)
 [![Linkedin Badge](https://img.shields.io/badge/-lcsampaio-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lcsampaio/)](https://www.linkedin.com/in/lcsampaio/)
@@ -29,9 +30,9 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sampaiolc&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sampaiolc&show_icons=true&locale=en&layout=compact" alt="sampaiolc" /></p>
+<!--#<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sampaiolc&show_icons=true&locale=en&layout=compact" alt="sampaiolc" /></p>-->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sampaiolc&show_icons=true&locale=en" alt="sampaiolc" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sampaiolc&show_icons=true&locale=en" alt="sampaiolc" /></p>-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sampaiolc&" alt="sampaiolc" /></p>
 
