@@ -1,13 +1,35 @@
-<div align="center">
 <h1 align="center">Hi 👋, I'm Luis</h1>
+  
+- 🔭 I’m currently working on [Byside](https://byside.com/)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sampaiolc&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
+- 🌱 I’m currently learning **Kubernetes**
 
-### Hi there，I'm Luis 🙋‍♂️
+- 👯 I’m looking to collaborate on [Kubernetes](https://github.com/kubernetes/website)
+
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/Sampaiolc)
+
+- 📝 I write articles on [lostrouter.com/](lostrouter.com/)
+
+- 💬 Ask me about **DevOps, Linux, Cloud and Network**
+
 
 - Open source is something I'm interested in.
+- 
 - Artificial intelligence is an area I'm focusing on right now.
 
+### Support or Contact
+
+👨🏻‍💻Please feel free to get in touch, I'll be happy to help!💁🏻‍♂️ [Email](sampaio.lc@hotmail.com)
+
+[![Twitter Badge](https://img.shields.io/badge/-Sampaiolc1-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Sampaiolc1)](https://twitter.com/Sampaiolc1/)
+[![Linkedin Badge](https://img.shields.io/badge/-lcsampaio-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lcsampaio/)](https://www.linkedin.com/in/lcsampaio/)
+[![Microsoft Outlook Badge](https://img.shields.io/badge/-sampaio.lc@hotmail.com-0078D4?style=plastic&logo=microsoft-outlook&logoColor=white&link=mailto:sampaio.lc@hotmail.com)](mailto:sampaio.lc@hotmail.com)
+
+[![Microsoft Outlook Badge](https://img.shields.io/badge/-15203012@iubat.edu-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:15203012@iubat.edu)](mailto:15203012@iubat.edu)
+[![Youtube Badge](https://img.shields.io/badge/-ProgSoft%20MR-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCZz07tLC8RqmCxc5nDGs9Xw)](https://www.youtube.com/channel/UCZz07tLC8RqmCxc5nDGs9Xw)
+[![Instagram Badge](https://img.shields.io/badge/-moshfiqrony-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/moshfiqrony/)](https://instagram.com/moshfiqrony)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=sampaiolc&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sampaiolc&show_icons=true&locale=en&layout=compact" alt="sampaiolc" /></p>
 
