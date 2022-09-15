@@ -24,10 +24,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-Sampaiolc1-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Sampaiolc1)](https://twitter.com/Sampaiolc1/)
 [![Linkedin Badge](https://img.shields.io/badge/-lcsampaio-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lcsampaio/)](https://www.linkedin.com/in/lcsampaio/)
 [![Microsoft Outlook Badge](https://img.shields.io/badge/-sampaio.lc@hotmail.com-0078D4?style=plastic&logo=microsoft-outlook&logoColor=white&link=mailto:sampaio.lc@hotmail.com)](mailto:sampaio.lc@hotmail.com)
-
-[![Microsoft Outlook Badge](https://img.shields.io/badge/-15203012@iubat.edu-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:15203012@iubat.edu)](mailto:15203012@iubat.edu)
-[![Youtube Badge](https://img.shields.io/badge/-ProgSoft%20MR-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCZz07tLC8RqmCxc5nDGs9Xw)](https://www.youtube.com/channel/UCZz07tLC8RqmCxc5nDGs9Xw)
-[![Instagram Badge](https://img.shields.io/badge/-moshfiqrony-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/moshfiqrony/)](https://instagram.com/moshfiqrony)
+[![Youtube Badge](https://img.shields.io/badge/-Lost%20Router-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCN9qAoFu6fXtwhs_Z7Gr5Ug)](https://www.youtube.com/channel/UCN9qAoFu6fXtwhs_Z7Gr5Ug)
+[![Instagram Badge](https://img.shields.io/badge/-lost.router-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/lost.router/)](https://instagram.com/lost.router/)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sampaiolc&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
 
