@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Luis</h1>
+<!--<h1 align="center">Hi 👋, I'm Luis</h1>-->
+
+<a href="https://www.lostrouter.com/"> <img src="https://github.com/Sampaiolc/Sampaiolc/blob/main/header.png" alt="sampaiolc" /> </a>
+
   
 - 🔭 I’m currently working on [Byside](https://byside.com/)
 
