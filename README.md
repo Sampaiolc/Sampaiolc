@@ -24,6 +24,27 @@ My name is Luis Sampaio. I'm a DevOps Engineer from Brasil. Currently, I'm work 
 #- Artificial intelligence is an area I'm focusing on right now.
 -->
 
+### Certification 
+      • Red Hat Certified Engineer(RHCE)
+      • Red Hat Certified System Administrator(RHCSA)
+      • AWS Certified Cloud Practitioner - Amazon Web Services (AWS)
+      • HashiCorp Certified: Terraform Associate
+      • Azure Certified Security – (AZ-500)
+      • Azure Fundamentals – Microsoft
+      • Cisco Certified Network Professional Enterprise
+      • Cisco Certified Specialist – Enterprise Core
+      • Microsoft Certified Trainer 2020-2022
+      • MCSE: Core Infrastructure – Microsoft
+      • MCSA: Windows Server 2016 – Microsoft
+      • Cisco Certified Specialist – Enterprise Core
+      • Cisco Certified Specialist - Enterprise Advanced Infrastructure Implementation
+      • Cisco Certified Network Associate Routing and Switching(CCNA R&S)
+      • Cisco Certified Entry Networking Technician
+      • LPIC 1 - Linux System Administrator(LPI)
+      • CompTIA Linux+ – CompTIA
+<br/>
+
+
 ### Support or Contact
 
 👨🏻‍💻Please feel free to get in touch, I'll be happy to help!💁🏻‍♂️
