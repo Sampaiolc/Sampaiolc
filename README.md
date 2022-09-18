@@ -18,11 +18,11 @@ My name is Luis Sampaio. I'm a DevOps Engineer from Brasil. Currently, I'm work 
 
 ## ⚡ Fun facts
 
-<!--
-#- Open source is something I'm interested in.
-#- 
-#- Artificial intelligence is an area I'm focusing on right now.
--->
+
+### Languages
+
+![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?logo=gnu-bash&logoColor=white)
 
 ### Certification 
       • Red Hat Certified Engineer(RHCE)
