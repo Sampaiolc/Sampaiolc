@@ -2,7 +2,7 @@
 
 <a href="https://www.lostrouter.com/"> <img src="https://github.com/Sampaiolc/Sampaiolc/blob/main/header.png" alt="sampaiolc" /> </a>
 
-My name is Luis Sampaio. I'm a DevOps Engineer from Brasil. Currently, I'm work in Portugal at [@Byside](https://byside.com/)! I'm working mostly automating tasks, for that use technologies like Terraform, Ansible, Linux, Containers and Cloud Computing. I'm love Open-Source and sharing knowledge with the community.
+My name is Luis Sampaio. I'm a DevOps Engineer from Brasil. Currently, I'm work in Portugal at [@Byside](https://byside.com/)! I'm working mostly automating tasks, for that use technologies like Terraform, Ansible, Linux, Containers and Cloud Computing. I love Open-Source and sharing knowledge with the community.
   
 - 🔭 I’m currently working on [Byside](https://byside.com/)
 
