@@ -34,7 +34,7 @@ My name is Luis Sampaio. I'm a DevOps Engineer from Brasil. Currently, I'm work 
 [![Youtube Badge](https://img.shields.io/badge/-Lost%20Router-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCN9qAoFu6fXtwhs_Z7Gr5Ug)](https://www.youtube.com/channel/UCN9qAoFu6fXtwhs_Z7Gr5Ug)
 [![Instagram Badge](https://img.shields.io/badge/-lost.router-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/lost.router/)](https://instagram.com/lost.router/)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sampaiolc&" alt="sampaiolc" /> <img src="https://github-readme-stats.vercel.app/api?username=sampaiolc&show_icons=true&locale=en" alt="sampaiolc" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sampaiolc&theme=blue-green" alt="sampaiolc" /> <img src="https://github-readme-stats.vercel.app/api?username=sampaiolc&show_icons=true&theme=blue-green&locale=en" alt="sampaiolc" /> 
 
 
 
