@@ -16,7 +16,7 @@ My name is Luis Sampaio. I'm a DevOps Engineer from Brasil. Currently, I'm work 
 
 - 💬 Ask me about **DevOps, Linux, Cloud and Network**
 
-## ⚡ Fun facts
+- ⚡ Fun facts I love to play Poker ♣♥♠♦
 
 
 ### Languages
